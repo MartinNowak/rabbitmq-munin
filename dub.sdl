@@ -1,0 +1,6 @@
+name "rabbitmq"
+description "A munin plugin to monitor RabbitMQ"
+copyright "Copyright © 2015, Martin Nowak"
+authors "Martin Nowak"
+license "MIT"
+libs "curl"
